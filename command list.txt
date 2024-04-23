@@ -1,0 +1,20 @@
+cat (filename)
+ls
+cd (directory) ( use -p for path )
+edit (filename) (content)
+nano (filename)
+rm (filename)
+apt update  // Not working as of now
+apt upgrade // Not working as of now
+neofetch // Does what you expect ( yea its built in, what you gonna do about it? )
+firefox (website) // Exactly what you think
+mkdir (name) // Makes a directory
+touch (filename) // Makes a file
+
+
+sudo username (username) // Changes username
+sudo passwrd (new password) // Changes password
+
+
+sudo (command) // Requires password
+
